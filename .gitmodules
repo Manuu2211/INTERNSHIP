@@ -1,3 +1,6 @@
 [submodule "todolist"]
 	path = todolist
 	url = https://github.com/Manuu2211/todolist.git
+[submodule "Task2"]
+	path = Task2
+	url = https://github.com/Manuu2211/Task2.git
